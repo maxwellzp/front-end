@@ -1,0 +1,4 @@
+dev@dev-machine:/home/developer/go-microservices/front-end$ sudo go run ./cmd/web
+[sudo] password for dev: 
+Starting front end service on port 80
+
